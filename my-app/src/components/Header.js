@@ -145,10 +145,10 @@ export default function Header() {
       </header>
       <main>
         <div className="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
-          {/* <!-- Replace with your content --> */}
+          {/* <!-- main content --> */}
           <div className="px-4 py-6 sm:px-0">
-            <div className="border-4 border-dashed border-gray-200 rounded-lg h-96 text-lg">
-            <ul>
+            <div className="border-4 border-dashed border-white-500 rounded-lg h-96 text-lg bac bg-gray-500">
+            <ul className="py-8 text-white">
             <li>Web Development</li>
             <li>Mobile Development</li>
             <li>UI/UX Design</li>
@@ -157,7 +157,7 @@ export default function Header() {
           </ul>
             </div>
           </div>
-          {/* <!-- /End replace --> */}
+          {/* <!-- /main content--> */}
         </div>
       </main>
     </div>
