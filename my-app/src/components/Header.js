@@ -154,7 +154,10 @@ export default function Header() {
             <li>UI/UX Design</li>
             <li>Digital Marketing</li>
             <li>Business Consulting</li>
+            <li>Business Development</li>
+            <li>Business Solutions</li>
           </ul>
+          <p className="font-serif text-blue-400">*Please visit <a className="" href="https://kiranauttarkar.com">kiranauttarkar.com</a> for more information.</p>
             </div>
           </div>
           {/* <!-- /main content--> */}
